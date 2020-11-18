@@ -2,7 +2,7 @@
 
 * This is simple app made in Kotlin in which user can browse through the news. 
 
-* User can save the article which is important for him/her.
+* User can save the article which is important to him/her.
 
 * User can even search for the topic in which he/she is interested like science and technology, sports, politics etc.
 
